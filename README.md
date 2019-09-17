@@ -1,6 +1,6 @@
 # Event Organizer Challenge
 
-To practice and improve the development of flutter screens I used the link as mokup.
+To practice and improve the development of flutter screens I used the link below as mokup.
 - [App Ui for event organizers and event management](https://www.behance.net/gallery/75820323/App-Ui-for-event-organizers-and-event-management)
 
 <p float="left">
