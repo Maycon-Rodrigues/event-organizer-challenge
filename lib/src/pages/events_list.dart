@@ -76,7 +76,7 @@ class EventsList extends StatelessWidget {
                               borderRadius: BorderRadius.circular(5)),
                           child: Row(
                             children: <Widget>[
-                              Text('Enterteriment',
+                              Text('Entertainment',
                                   style:
                                       TextStyle(fontWeight: FontWeight.w500)),
                               Icon(Icons.arrow_drop_down)
