@@ -1,16 +1,27 @@
-# event_organizer
+# Event Organizer Challenge
 
-A new Flutter project.
+To practice and improve the development of flutter screens I used the link below as mokup.
+- [App Ui for event organizers and event management](https://www.behance.net/gallery/75820323/App-Ui-for-event-organizers-and-event-management)
+
+<p float="left">
+  <img src="https://github.com/Maycon-Rodrigues/event-organizer-challenge/blob/master/Screenshot1.png" width="300"/>
+  <img src="https://github.com/Maycon-Rodrigues/event-organizer-challenge/blob/master/Screenshot2.png" width="300"/>
+</p>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Download the application code
 
-A few resources to get you started if this is your first Flutter project:
+First clone the repository
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+###### SSH
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone git@github.com:Maycon-Rodrigues/event-organizer-challenge.git
+```
+
+###### HTTP
+
+```
+git clone https://github.com/Maycon-Rodrigues/event-organizer-challenge.git
+```
