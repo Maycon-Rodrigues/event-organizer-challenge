@@ -5,7 +5,7 @@ To practice and improve the development of flutter screens I used the link below
 
 <p float="left">
   <img src="https://github.com/Maycon-Rodrigues/event-organizer-challenge/blob/master/Screenshot1.png" width="300"/>
-  <img src="https://github.com/Maycon-Rodrigues/event-organizer-challenge/blob/master/Screenshot2.png" width="300"/>
+  <img src="https://github.com/Maycon-Rodrigues/event-organizer-challenge/blob/master/Screenshot_2.png" width="300"/>
 </p>
 
 ## Getting Started
